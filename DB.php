@@ -22,9 +22,3 @@ class DB{
 
 ?>
 
-<?php
-
-echo "my name is tonmoy roy ";
-
-
-?>
